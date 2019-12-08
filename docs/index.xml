@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebel Farm Fermentory</title>
-    <link>http://example.org/</link>
+    <link>https://mw3030.github.io/RFF/</link>
     <description>Recent content on Rebel Farm Fermentory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mw3030.github.io/RFF/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

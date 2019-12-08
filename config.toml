@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mw3030.github.io/RFF/"
 languageCode = "en-us"
 title = "Rebel Farm Fermentory"
 theme = "grayscale"
