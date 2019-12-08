@@ -36,7 +36,7 @@ intro:
 #    text: '<p>You can download Grayscale for free from the Github page.</p><a href="https://github.com/runningstream/hugograyscale/" class="btn btn-default btn-lg">Visit Download Page</a>'
 
 contact:
-#    rename: "Follow"
+    rename: "contact"
     header: "Follow Us"
     text: ''
 ---
